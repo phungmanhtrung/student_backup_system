@@ -1,0 +1,10 @@
+2026-05-25 09:45:01 - ===== Auto backup started =====
+2026-05-25 09:45:01 - Internet check: OK
+2026-05-25 09:45:01 - Backup successful: ./backups/backup_20260525_094501.tar.gz
+2026-05-25 09:45:01 - Cleaned old backups (kept 5).
+2026-05-25 09:45:01 - ===== Auto backup finished =====
+2026-05-25 09:50:01 - ===== Auto backup started =====
+2026-05-25 09:50:01 - Internet check: OK
+2026-05-25 09:50:01 - Backup successful: ./backups/backup_20260525_095001.tar.gz
+2026-05-25 09:50:02 - Cleaned old backups (kept 5).
+2026-05-25 09:50:02 - ===== Auto backup finished =====
